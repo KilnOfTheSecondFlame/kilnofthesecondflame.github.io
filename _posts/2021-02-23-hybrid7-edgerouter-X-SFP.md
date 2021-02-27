@@ -10,7 +10,7 @@ You should receive a SFP module from Init7 or you can order a [hardware bundle](
 
 # Automatic Configuration
 Just do the Basic Setup wizard with the information provided on the data sheet. Make sure to tick "Internet Connection is on VLAN" and provide the correct VLAN ID:
-![Basic Setup Configuration Wizard](../images/Basic_Setup.png)
+![Basic Setup Configuration Wizard](/images/Basic_Setup.png)
 
 # Manual Configuration
 ## Firewall Rules
