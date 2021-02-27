@@ -2,7 +2,7 @@
 layout: single
 title:  "Configure Hybrid7 EdgeRouter X SFP"
 date:   2021-02-23 19:30:00 +0100
-categories: vinyatta edgerouter 
+categories: vyatta edgerouter 
 ---
 
 # Physical Connection
